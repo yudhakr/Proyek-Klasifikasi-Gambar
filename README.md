@@ -1,8 +1,8 @@
 # Proyek Klasifikasi Gambar
 
-- **[Dicoding](dicoding.com)**
-
 - Course: **Belajar Fundamental Deep Learning**
+
+Dataset  Animal kaggle (https://www.kaggle.com/datasets/shiv28/animal-5-mammal).
 
 
 # 📘 Panduan Singkat Menjalankan Notebook.ipynb  
